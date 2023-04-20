@@ -1,0 +1,9 @@
+body {
+  padding: 2em;
+}
+
+div {
+  margin: 1em;
+  padding: 2em;
+  border: solid 2px lightgray;
+}
